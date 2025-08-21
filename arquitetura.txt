@@ -1,0 +1,5 @@
+node
+fastify
+docker 
+drizzle orm 
+postgres
